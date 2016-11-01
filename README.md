@@ -1,5 +1,4 @@
 # To do list, object oriented php project
-
 This is very simple php project based on object oriented programmeing. 
 <br>Here are users registrations.
 <br>Email verification with php mail() function
@@ -16,7 +15,7 @@ This is very simple php project based on object oriented programmeing.
 <br> Donload this project or clone on your matchine
 <br> update your composer
 <br> set db crediential and base url in config.php
-<br> I have added [https://raw.githubusercontent.com/jakarea/itclanbd/master/todos.sql](sql file). You can use it.
+<br> I have added [sql file](https://raw.githubusercontent.com/jakarea/itclanbd/master/todos.sql). You can use it.
 
 # warning
 <br> Right now all file inside project folder need to put on root directory
